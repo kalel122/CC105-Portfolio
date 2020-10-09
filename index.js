@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body> <h2>Samole JS</h2> <p id="demo">Hello mga maam/sir.</p> <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello mga maam/sir"'>Click Me!</button> </body></html>
